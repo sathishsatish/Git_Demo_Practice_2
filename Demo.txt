@@ -1,2 +1,2 @@
 This is the second proctice
-Git installed and key generated
+Git installed and key generated successfully
